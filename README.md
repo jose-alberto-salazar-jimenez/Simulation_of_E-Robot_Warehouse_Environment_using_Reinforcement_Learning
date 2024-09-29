@@ -1,1 +1,1 @@
-# Simulation_of_E-Robot_Warehouse_Environment_using_Reinforcement_Learning
+# Simulation of a simple E-Robot Warehouse Environment using Reinforcement Learning
